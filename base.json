@@ -1,0 +1,7 @@
+{
+  "header": {
+    "hamburgerMenu": ["Home", "Profile", "Settings", "Logout"],
+    "logo": "🌐",
+    "promptInputPlaceholder": "Enter your message here..."
+  }
+}
